@@ -1,0 +1,100 @@
+{
+    "menu" : [
+        {
+            "jenis" :"makanan",
+            "nama":"Nasi Beef Saus Mentega + Telur",
+            "deskripsi":"Nasi putih yang disajikan dengan telur serta racikan daging sapi yang ditumis dengan saus mentega yang nikmat",
+            "harga":"32000",
+            "estimasi":"",
+            "gambar":"nasi-beef-mentega.jpg"
+        },
+        {
+            "jenis" :"makanan",
+            "nama":"Nasi Cibi (Chilli Beef) + Telur",
+            "deskripsi":"Nasi putih daging dengan sambal cabai domba ditambah sambal domba yang rasanya nendang abis",
+            "harga":"32500",
+            "estimasi":"",
+            "gambar":"nasi-cibi.jpg"
+        },
+        {
+            "jenis" :"makanan",
+            "nama":"Nasi CiCi (Chilli Chicken) + Telur",
+            "deskripsi":"Nasi putih yang disajikan dengan tumisan daging ayam gurih nan pedas",
+            "harga":"30000",
+            "estimasi":"",
+            "gambar":"nasi-cici.jpg"
+        },
+        {
+            "jenis" :"makanan",
+            "nama":"Indomie Goreng Cibi (Chilli Beef)",
+            "deskripsi":"Perpaduan Indomie Goreng dengan tumisan daging sapi dan cabai rawit yang rasanya nampoool banget",
+            "harga":"25000",
+            "estimasi":"",
+            "gambar":"indomie-cibi.jpg"
+        },
+        {
+            "jenis" :"makanan",
+            "nama":"Indomie Mawut Magelangan",
+            "deskripsi":"Menu yang memadukan Mie, Nasi dengan Topping Telor, Sayur dan Bakso",
+            "harga":"28500",
+            "estimasi":"",
+            "gambar":"indomie-mawut.jpg"
+        },
+        {
+            "jenis" :"makanan",
+            "nama":"Indomie Upnormal Saus Keju",
+            "deskripsi":"Indomie kekinian dengan kuah keju ditambah 2 bakso kecil dan sambal domba yang bikin melek",
+            "harga":"21000",
+            "estimasi":"",
+            "gambar":"indomie-saus-keju.jpg"
+        },
+        {
+            "jenis" :"minuman",
+            "nama":"Greentea Latte",
+            "deskripsi":"Perpaduan kekinian Green Tea dengan Latte, bikin sensasi creamy di mulut yang gak ada habisnya ",
+            "harga":"15000",
+            "estimasi":"",
+            "gambar":"greentea-latte.jpg"
+        },
+        {
+            "jenis" :"minuman",
+            "nama":"Hazelnut Latte",
+            "deskripsi":"Campuran kopi Indonesia berkualitas dengan susu dan sirup Hazelnut yang cita rasanya nikmat banget",
+            "harga":"17000",
+            "estimasi":"",
+            "gambar":"hazelnut-latte.jpg"
+        },
+        {
+            "jenis" :"minuman",
+            "nama":"Caramel Latte",
+            "deskripsi":"Campuran kopi Indonesia berkualitas dengan susu dan sirup Caramel yang cita rasanya nikmat banget",
+            "harga":"17000",
+            "estimasi":"",
+            "gambar":"caramel-latte.jpg"
+        },
+        {
+            "jenis" :"dessert",
+            "nama":"Roti Nutella",
+            "deskripsi":"Coklat tebal nutella yang dioleskan ke atas roti bakar crispy, rasanya bikin nagih",
+            "harga":"22000",
+            "estimasi":"",
+            "gambar":"roti-nutella.jpg"
+        },
+        {
+            "jenis" :"dessert",
+            "nama":"Roti Butter Special",
+            "deskripsi":"Roti dengan olesan butter special yang gurih dan wangi",
+            "harga":"17000",
+            "estimasi":"",
+            "gambar":"roti-butter.jpg"
+        },
+        {
+            "jenis" :"dessert",
+            "nama":"Roti Merdeka",
+            "deskripsi":"Roti dengan perpaduan topping coklat dan keju yang klasik namun nikmat",
+            "harga":"20000",
+            "estimasi":"",
+            "gambar":"roti-merdeka.jpg"
+        }
+    ]
+}
